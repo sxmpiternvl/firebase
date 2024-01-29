@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1088002186234",
+    "firebase_url": "https://xproject-bcfa9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "xproject-bcfa9",
+    "storage_bucket": "xproject-bcfa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088002186234:android:ae2cd628604a58070ba243",
+        "android_client_info": {
+          "package_name": "com.example.x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZmC_etkoKdJ0hImtZdBXeDtm5M4duuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
